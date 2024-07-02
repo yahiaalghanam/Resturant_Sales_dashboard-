@@ -1,3 +1,4 @@
+
 # Restaurant Data Analysis Dashboard
 
 ## Project Overview
@@ -48,4 +49,8 @@
 
 #### Connect Power BI to the SQL database.
 #### Create interactive dashboards and visualizations.
-####Customize the dashboards as per the user requirements.
+#### Customize the dashboards as per the user requirements.
+
+<div>
+  <img src= "https://github.com/yahiaalghanam/Resturant_Sales_dashboard-/assets/117560199/32b44245-b6be-43da-88b1-ce34f7b82571"
+</div>
